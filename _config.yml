@@ -1,0 +1,28 @@
+name: REVEURFASHION
+favicon: null
+layout_spectrum: 0.3056953246705234
+typography_spectrum: 0.16722577437758446
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.7158417394384742
+  lightness: 0.5100153915118426
+  saturation: 0.6080418217461556
+  rhythmicContrast: 0.7150790805462748
+purpose: []
